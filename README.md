@@ -7,7 +7,7 @@ For instructions on installing Cypress, visit: https://docs.cypress.io/guides/ge
 
 NOTE: node.js should be installed as part of the installation process above.
 
-Open the unzipped folder in your IDE.
+Open the BVoyten_Edify folder in your IDE.
 The spec files are located in: BVoyten_Edify\cypress\integration
 Open a PowerShell or Bash terminal within your IDE (if applicable).
   - If terminals are not available in your IDE, open BVoyten_Edify\cypress\integration from within PowerShell or Bash.
